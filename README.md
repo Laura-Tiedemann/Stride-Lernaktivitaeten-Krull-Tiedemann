@@ -6,7 +6,7 @@ Informatik 1. Halbjahr 2016
 ### Gliederung
 1. [Spielprinzip](#test)
 
-### <a id="test"></a>Spielprinzip
+### <a name="test"></a>Spielprinzip
 
 #### Ziel des Spiels
 
