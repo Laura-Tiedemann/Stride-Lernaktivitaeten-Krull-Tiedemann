@@ -1,4 +1,4 @@
-# Stride-Lernaktivitaeten-Krull-Tiedemann
+# Stride Lernaktivitaeten Krull Tiedemann
 Informatik 1. Halbjahr 2016
 
 ## Clash of Crabs
@@ -34,7 +34,7 @@ Die untere Krabbe bewegt sich mit w,a,s,d.
 
 Wir haben noch viele weitere Ideen, um unser Spiel zu verbessern, die wir jedoch aufgrund Zeitmangels (noch) nicht umsetzen konnten. 
 
-Am wichtigesten wäre uns zunächst die Einblendung des Gewinners am Ende des Spiels. Hierfür haben wir bereits zwei Grafiken  erstellt ("Player 1 wins","Player 2 wins"). Leider ist es uns bisher nicht gelungen, diese ins Spiel zu integrieren. 
+Am wichtigesten wäre uns zunächst die Einblendung des Gewinners am Ende des Spiels. Hierfür haben wir bereits zwei Grafiken  erstellt ("Player 1 wins","Player 2 wins"). Leider ist es uns bisher nicht gelungen, diese ins Spiel zu integrieren. Die Schwierigkeit hierbei bestand darin, die jeweilige Grafik mit der betreffenden Krabbe zu verbinden.
 
 Die nährstoffreichen Würmer sollten überlebenswichtig sein. Um nicht zu verhungern, müssten ca. 5 Würmer pro Minute gefressen werden. 
 Dazu müssten im oberen Drittel des Bildschirms zwei Health Bars angezeigt werden, die kontinuierlich sinken und beim Verzehr von Würmern wieder partiell aufgefüllt werden. Dadurch entstünde ein Konkurrenzkampf zwischen den Krabben, der den Spielspaß erheblich steigern würde.
