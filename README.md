@@ -4,18 +4,19 @@ Informatik 1. Halbjahr 2016
 ## Clash of Crabs
 
 ### Gliederung
-1. [Spielprinzip](#test)
-2. [Ziel des Spiels]
-3. [Steuerung]
-4. [Spielentwicklung]
+1. [Spielprinzip](#a)
+  1.1 [Ziel des Spiels](#b)
+  1.2 [Steuerung](#c)
+2. [Spielentwicklung](#d)
+3. [Weitere Entwicklungsideen](#e)
 
-### <a id="test">Spielprinzip</a>
+### <a id="a">Spielprinzip</a>
 
-#### Ziel des Spiels
+#### <a id="b">Ziel des Spiels</a>
 
-#### Steuerung
+#### <a id="c">Steuerung</a>
 
 
-### Spielentwicklung
+### <a id="d">Spielentwicklung</a>
 
-### weitere Entwicklungsideen
+### <a id="e">Weitere Entwicklungsideen</a>
