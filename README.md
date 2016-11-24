@@ -5,7 +5,10 @@ Informatik 1. Halbjahr 2016
 
 ### Gliederung
 1. [Spielprinzip](#test)
-
+2. [Ziel des Spiels]
+3. [Steuerung]
+4. [Spielentwicklung]
+5. 
 ### <a name="test"></a>Spielprinzip
 
 #### Ziel des Spiels
