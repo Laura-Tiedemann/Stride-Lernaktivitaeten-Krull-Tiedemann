@@ -1,6 +1,6 @@
 
-# Stride Lernaktivitäten Krull Tiedemann
-    Informatik 1. Halbjahr 2016
+# Stride Lernaktivitäten Krull+Tiedemann
+    Informatik bei Herrn Buhl, 1. Halbjahr 2016
 
 ## Clash of Crabs
 
@@ -9,7 +9,8 @@
      1.1 [Ziel des Spiels](#b)
      1.2 [Steuerung](#c)
 2. [Spielentwicklung](#d)
-3. [Weitere Entwicklungsideen](#e)
+    2.1 [Implementierung](#e)
+3. [Weitere Entwicklungsideen](#f)
 
 ### <a id="a">Spielprinzip</a>
 
@@ -42,7 +43,9 @@ Für die Hummer haben wir einen praktikablen Bewegungsablauf programmiert, der d
 
 Als letztes haben wir dem Spiel noch Sounds hinzugefügt. Eine chillige Beachmusic als Hintergrundmusik, um das Strandflair zu gewährleisten, sowie einen hippen Sound, wenn eine der Krabben gefressen wird, was den Gewinner akustisch bekanntgeben soll.
 
-### <a id="e">Weitere Entwicklungsideen</a>
+#### <a id="e">Implementierung</a>
+
+### <a id="f">Weitere Entwicklungsideen</a>
 
 Wir haben noch viele weitere Ideen, um unser Spiel zu verbessern, die wir jedoch aufgrund Zeitmangels (noch) nicht umsetzen konnten. 
 
