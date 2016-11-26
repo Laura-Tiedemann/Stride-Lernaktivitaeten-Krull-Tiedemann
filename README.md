@@ -1,7 +1,7 @@
 
 # Stride Lernaktivitäten Krull+Tiedemann
     Informatik bei Herrn Buhl, 1. Halbjahr 2016
-
+ 
 ## Clash of Crabs
 
 ### Gliederung
@@ -11,6 +11,8 @@
 2. [Spielentwicklung](#d)
     2.1 [Implementierung](#e)
 3. [Weitere Entwicklungsideen](#f)
+
+___ 
 
 ### <a id="a">Spielprinzip</a>
 
@@ -30,6 +32,8 @@ Naturgetreue Darstellungen sind uns sehr wichtig. Daher bewegen sich die Krabben
 Die obere Krabbe (Player 1) wird mit Hilfe der Pfeiltasten gesteuert.
 Die untere Krabbe (Player 2) bewegt sich mit w,a,s,d.
 
+___ 
+
 ### <a id="d">Spielentwicklung</a>
 
 Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen ersten Einblick in die Programmiersprache Stride zu verschaffen. Dabei fiel uns vor allem das "Little Crab" Szenario ins Auge, welches unserer Meinung nach hohes Potenzial besaß. Also haben wir uns die weiteren Informationsstunden dem "Little Crab" Szenario gewidmet, unsere eigenen Ideen eingebracht und es immer weiter verbessert, bis schließlich unser Spiel "Clash of Crabs" entstanden ist.
@@ -45,6 +49,18 @@ Als letztes haben wir dem Spiel noch Sounds hinzugefügt. Eine chillige Beachmus
 
 #### <a id="e">Implementierung</a>
 
+Um den zwei Krabben eine unterschiedliche Tastatursteuerung zu geben, haben wir mit Constructors gearbeitet. 
+Dafür haben wir zunächst beim Actor "Crab" in "Fields" vier Variablen vom Typ String erstellt (keyUp, keyDown, keyLeft, keyRight). In "Constructors" haben wir dann jeder Krabbe vier Constructors (keyU, keyD, keyL, keyR), ebenfalls vom Typ String, zugewiesen. Darunter haben wir die vier Constructors definiert, und zwar als die vier zuvor erstellten Variablen. Dann haben wir eine Methode namens "TastatursteuerungCrab" erstellt und für jede Bewegungsrichtung unsere Variablen keyUp, keyDown, keyLeft und keyRight eingesetzt.
+Anschließend haben wir in der CrabWorld "prepare" Methode den beiden Krabben ihre unterschiedlichen Constructors (w,a,s,d bzw. die Pfeiltasten) zugewiesen.
+
+Die alten Grafiken haben wir ausgetauscht, indem wir zunächst im Internet nach neuen, realitätsnäheren Grafiken gesucht haben.
+Anschließend haben wir diese einfach in den "Images" Ordner eingefügt und für die jeweiligen Actors unsere Grafiken übernommen.
+
+Gleiches haben wir mit den Sounds gemacht. Diese haben wir im Internet gefunden, in den "Sounds" Ordner eingefügt und an den richtigen Stellen in unsere Spiel eingebaut.
+
+
+___ 
+
 ### <a id="f">Weitere Entwicklungsideen</a>
 
 Wir haben noch viele weitere Ideen, um unser Spiel zu verbessern, die wir jedoch aufgrund Zeitmangels (noch) nicht umsetzen konnten. 
@@ -56,4 +72,5 @@ Dazu müssten im oberen Drittel des Bildschirms zwei Health Bars angezeigt werde
 
 Des Weiteren sollten die überaus dekorativen Seesterne eine Funktion erhalten. Wir dachten an einen Super-Mario-inspired Seestern, der die Krabben temporär unsterblich macht. Außerdem kann die Krabbe durch ihre Superkraft die Hummer zerstören, wodurch das Gameplay erheblich verbessert würde und eine längere Spieldauer ermöglicht würde. 
 
+___ 
 
