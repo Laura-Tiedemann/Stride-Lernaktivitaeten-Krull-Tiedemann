@@ -36,7 +36,7 @@ ___
 
 ### <a id="d">Spielentwicklung</a>
 
-Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen ersten Einblick in die Programmiersprache Stride zu verschaffen. Dabei fiel uns vor allem das "Little Crab" Szenario ins Auge, welches unserer Meinung nach hohes Potenzial besaß. Also haben wir uns die weiteren Informationsstunden dem "Little Crab" Szenario gewidmet, unsere eigenen Ideen eingebracht und es immer weiter verbessert, bis schließlich unser Spiel "Clash of Crabs" entstanden ist.
+Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen ersten Einblick in die Programmiersprache Stride zu verschaffen. Dabei fiel uns vor allem das "Little Crab" Szenario ins Auge, welches unserer Meinung nach hohes Potenzial besaß. Also haben wir uns die weiteren Informatikstunden dem "Little Crab" Szenario gewidmet, unsere eigenen Ideen eingebracht und es immer weiter verbessert, bis schließlich unser Spiel "Clash of Crabs" entstanden ist.
 
 Unsere erste geniale Idee für eine Verbesserung bestand darin, Clash of Crabs zu einem Multiplayerspiel zu machen, da Multiplayerspiele sich, wie allgemein bekannt ist, einer hohen Beliebtheit erfreuen. Hierfür haben wir uns überlegt, dass die eine Krabbe mit den Pfeiltasten und die andere Krabbe mit w,a,s,d, gesteuert werden kann.
 
