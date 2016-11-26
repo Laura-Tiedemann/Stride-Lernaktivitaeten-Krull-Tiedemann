@@ -18,6 +18,7 @@ ___
 ### <a id="a">Spielprinzip</a>
 
 Schlüpfen Sie in die Rolle einer Krabbe am Sandstrand! 
+
 Es tummeln sich dort Würmer, Seesterne und Hummer. In einem ständigen Überlebens- und Konkurrenzkampf erleben Sie den ultimativen Adrenalinkick. Sie sind ständig auf der Suche nach leckeren Würmern. Doch nehmen Sie sich in Acht vor den sadistischen Hummern, die sich völlig unberechenbar bewegen und Ihnen während der Nahrungssuche nach dem Leben trachten. 
 Ab und zu können Sie sich am Anblick äußerst dekorativer Seesterne beglücken.
 
@@ -30,6 +31,7 @@ Clash of Crabs ist zurzeit ein reines Multiplayerspiel.
 #### <a id="c">Steuerung</a>
 
 Naturgetreue Darstellungen sind uns sehr wichtig. Daher bewegen sich die Krabben seitwärts fort.
+
 Die obere Krabbe (Player 1) wird mit Hilfe der Pfeiltasten gesteuert.
 Die untere Krabbe (Player 2) bewegt sich mit w,a,s,d.
 
@@ -57,6 +59,7 @@ Dafür haben wir zunächst beim Actor "Crab" in "Fields" vier Variablen vom Typ 
 Dann haben wir eine Methode namens "TastatursteuerungCrab" erstellt und für jede Bewegungsrichtung unsere Variablen keyUp, keyDown, keyLeft und keyRight eingesetzt.
 Anschließend haben wir in der CrabWorld "prepare"-Methode den beiden Krabben ihre unterschiedlichen Constructors 
 (w,a,s,d bzw. die Pfeiltasten) zugewiesen.
+
 Nach demselben Prinzip haben wir beiden Krabben verschiedene Bilder zugewiesen.
 
 Die alten Grafiken haben wir ausgetauscht, indem wir zunächst im Internet nach neuen, realitätsnaheren Grafiken gesucht haben.
