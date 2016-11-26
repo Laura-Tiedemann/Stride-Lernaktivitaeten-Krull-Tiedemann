@@ -66,6 +66,7 @@ Gleiches haben wir mit den Sounds gemacht. Diese haben wir ebenfalls im Internet
 
 Der Bewegungsablauf der Hummer erfolgt nach dem Zufallsprinzip. Dies haben wir umgesetzt, indem  wir die Hummer konstant vorwärts laufen lassen und random ("Greenfoot.getRandomNumber") deren Bewegungsrichtung mithilfe von "setRotation"  ändern. 
 Mit den Wahrscheinlichkeiten haben wir so lange rumprobiert, bis die Hummer schließlich über den gesamten Bildschirm gelaufen sind.
+
 Damit immer neue Hummer spawnen, haben wir in CrabWorld in "Fields" zuerst eine Variable vom Typ Integer erstellt ("zeitZumLobster") und diese auf 0 gesetzt. In der "act"-Methode der CrabWorld haben wir programmiert, dass die "zeitZumLobster" pro Tic um 1 erhöht wird und dass nach 600 Tics jeweils ein neuer Hummer in der Mitte der Welt gespawnt wird. Die "zeitZumLobster" wird anschließend wieder auf 0 gesetzt.
 
 ___ 
