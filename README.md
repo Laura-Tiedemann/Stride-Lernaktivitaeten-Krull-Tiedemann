@@ -1,5 +1,5 @@
 
-# Stride Lernaktivitaeten Krull Tiedemann
+# Stride Lernaktivitäten Krull Tiedemann
     Informatik 1. Halbjahr 2016
 
 ## Clash of Crabs
