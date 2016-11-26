@@ -1,7 +1,8 @@
-# Stride Lernaktivitaeten Krull Tiedemann
-Informatik 1. Halbjahr 2016
 
-## Clash of Crabs
+# Stride Lernaktivitaeten Krull Tiedemann
+## Informatik 1. Halbjahr 2016
+
+# Clash of Crabs
 
 ### Gliederung
 1. [Spielprinzip](#a)
