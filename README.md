@@ -33,7 +33,7 @@ Clash of Crabs ist zurzeit ein reines Multiplayerspiel.
 
 Naturgetreue Darstellungen sind uns sehr wichtig. Daher bewegen sich die Krabben seitwärts fort.
 
-Die obere Krabbe (Player 1) wird mit Hilfe der Pfeiltasten gesteuert, die untere Krabbe (Player 2) mit w,a,s,d. Beide Krabben bewegen sich von allein, einzig die Richtung in welche sie sich bewegen muss bestimmt werden.
+Die obere Krabbe (Player 1) wird mit Hilfe der Pfeiltasten gesteuert, die untere Krabbe (Player 2) mit w,a,s,d. Beide Krabben bewegen sich von allein, einzig die Richtungsänderung muss bestimmt werden.
 
 ___ 
 
