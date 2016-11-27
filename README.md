@@ -20,7 +20,7 @@ ___
 
 Schlüpfen Sie in die Rolle einer Krabbe am Sandstrand! 
 
-![Startszenario](Bildschi)
+![Startszenario](Startszenario.png)
 
 Es tummeln sich dort Würmer, Seesterne und Hummer. In einem ständigen Überlebens- und Konkurrenzkampf erleben Sie den ultimativen Adrenalinkick. Sie sind ständig auf der Suche nach leckeren Würmern. Doch nehmen Sie sich in Acht vor den sadistischen Hummern, die sich völlig unberechenbar bewegen und Ihnen während der Nahrungssuche nach dem Leben trachten. 
 Ab und zu können Sie sich am Anblick äußerst dekorativer Seesterne beglücken.
