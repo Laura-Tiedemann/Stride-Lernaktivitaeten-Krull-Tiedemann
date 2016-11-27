@@ -44,6 +44,8 @@ Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen 
 
 #### <a id="i">Greenfoot-Einstieg</a>
 
+
+
 #### <a id="g">Ideen</a>
 
 Unsere erste geniale Idee für eine Verbesserung bestand darin, Clash of Crabs zu einem Multiplayerspiel zu machen, da Multiplayerspiele sich, wie allgemein bekannt ist, einer hohen Beliebtheit erfreuen. Hierfür haben wir uns überlegt, dass die eine Krabbe mit den Pfeiltasten und die andere Krabbe mit w,a,s,d, gesteuert werden kann. Natürlich müssen sich die beiden Krabben auch optisch voneinander unterscheiden.
