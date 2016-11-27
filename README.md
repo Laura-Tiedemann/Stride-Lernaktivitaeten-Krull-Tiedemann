@@ -44,7 +44,7 @@ Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen 
 
 #### <a id="i">Greenfoot-Einstieg</a>
 
-
+Um einen ersten Einblick in Greenfoot zu bekommen, haben wir uns zunächst durch die Greenfoot-Stride-Lernaktivitäten gearbeitet. 
 
 #### <a id="g">Ideen</a>
 
