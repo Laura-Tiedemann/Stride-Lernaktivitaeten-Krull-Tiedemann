@@ -9,8 +9,9 @@
      1.1 [Ziel des Spiels](#b)
      1.2 [Steuerung](#c)
 2. [Spielentwicklung](#d)
-    2.1 [Ideen](#g)
-    2.2 [Implementierung](#e)
+    2.1 [Greenfoot-Einstieg](#i)
+    2.2 [Ideen](#g)
+    2.3 [Implementierung](#e)
 3. [Weitere Entwicklungsideen](#f)
 
 ___ 
@@ -40,6 +41,8 @@ ___
 ### <a id="d">Spielentwicklung</a>
 
 Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen ersten Einblick in die Programmiersprache Stride zu verschaffen. Dabei fiel uns vor allem das "Little Crab" Szenario ins Auge, welches unserer Meinung nach hohes Potenzial besitzt. Also haben wir uns die weiteren Informatikstunden dem "Little Crab" Szenario gewidmet, unsere eigenen Ideen eingebracht und es immer weiter verbessert, bis schließlich unser Spiel "Clash of Crabs" entstanden ist.
+
+#### <a id="i">Greenfoot-Einstieg</a>
 
 #### <a id="g">Ideen</a>
 
