@@ -1,5 +1,5 @@
 
-# <a id="h"Stride Lernaktivitäten Krull+Tiedemann</a>
+# <a id="h">Stride Lernaktivitäten Krull+Tiedemann</a>
     Informatik bei Herrn Buhl, 1. Halbjahr 2016
  
 ## Clash of Crabs
