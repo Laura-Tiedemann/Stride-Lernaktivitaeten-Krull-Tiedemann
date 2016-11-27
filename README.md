@@ -50,7 +50,7 @@ Einzig die Grafik der Würmer haben wir beim Alten belassen, um keinen Würgerei
 
 Für die Hummer haben wir einen praktikablen Bewegungsablauf programmiert, der sie nach dem Zufallsprinzip über den gesamten Bildschirm laufen lässt. Zudem erscheinen nach einiger Zeit neue Hummer, sodass der Schwierigkeitsgrad erhöht wird. Sie erscheinen immer genau in der Mitte des Bildschirms, damit das Spiel für beide Spieler fair bleibt.
 
-Als letztes haben wir dem Spiel noch Sounds hinzugefügt. Eine chillige Beachmusic als Hintergrundmusik, um das Strandflair zu gewährleisten, sowie einen hippen Sound, wenn eine der Krabben gefressen wird, was den Gewinner akustisch bekanntgeben soll.
+Als letztes haben wir dem Spiel noch Sounds hinzugefügt: Eine chillige Beachmusic als Hintergrundmusik, um das Strandflair zu gewährleisten, sowie einen hippen Sound, wenn eine der Krabben gefressen wird, was den Gewinner akustisch bekanntgeben soll.
 
 #### <a id="e">Implementierung</a>
 
@@ -80,7 +80,7 @@ Wir haben noch viele weitere Ideen, um unser Spiel zu verbessern, die wir jedoch
 
 Am wichtigsten wäre uns zunächst die Einblendung des Gewinners am Ende des Spiels. Hierfür haben wir bereits zwei Grafiken  erstellt ("Player 1 wins","Player 2 wins"). Leider ist es uns bisher nicht gelungen, diese ins Spiel zu integrieren. Die Schwierigkeit hierbei bestand vor allem darin, die jeweilige Grafik mit der betreffenden Krabbe zu verbinden.
 
-Außerdemm sollten die nährstoffreichen Würmer überlebenswichtig sein. Um nicht zu verhungern, müssten ca. 5 Würmer pro Minute gefressen werden. 
+Außerdem sollten die nährstoffreichen Würmer überlebenswichtig sein. Um nicht zu verhungern, müssten ca. 5 Würmer pro Minute gefressen werden. 
 Dazu müssten im oberen Drittel des Bildschirms zwei Health Bars angezeigt werden, die kontinuierlich sinken und beim Verzehr von Würmern wieder partiell aufgefüllt werden. Dadurch entstünde ein Konkurrenzkampf zwischen den Krabben, der den Spielspaß erheblich steigern würde.
 
 Des Weiteren sollten die überaus dekorativen Seesterne eine Funktion erhalten. Wir dachten an einen Super-Mario-inspired Seestern, der die Krabben temporär unsterblich macht. Außerdem kann die Krabbe durch ihre Superkraft die Hummer zerstören, wodurch das Gameplay erheblich verbessert würde und eine längere Spieldauer ermöglicht würde. 
