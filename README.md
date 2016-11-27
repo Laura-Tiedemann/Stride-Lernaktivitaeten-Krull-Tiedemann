@@ -43,19 +43,19 @@ Zuerst haben wir uns durch die Stride Lernaktivitäten gearbeitet, um uns einen 
 
 #### <a id="i">Greenfoot-Einstieg</a>
 
-Um einen ersten Einblick in Greenfoot zu bekommen, haben wir uns zunächst durch die Greenfoot-Stride-Lernaktivitäten gearbeitet. Das Meet-the-Greeps Szenario gab uns einen ersten Eindruck, wie Greenfoot aufgebaut ist und wie wir Befehle im Editor erstellen und verändern. Die Grundlagen der Tastatursteuerung, sowie die Verwendung von Variablen haben wir so kennengelernt.
+Um einen ersten Einblick in Greenfoot zu bekommen, haben wir uns zunächst durch die Greenfoot-Stride-Lernaktivitäten gearbeitet. Das Meet-the-Greeps Szenario gab uns einen ersten Eindruck, wie Greenfoot aufgebaut ist und wie wir Befehle im Editor erstellen und verändern. Die Grundlagen der Tastatursteuerung sowie die Verwendung von Variablen haben wir so kennengelernt.
 Anschließend haben wir uns mit dem FatCat Szenario beschäftigt. Da wir die Befehle hierbei selbst erstellen sollten, haben wir uns mit den verschiedenen Hotkeys auseinandergesetzt und anschließend verschiedene Methoden ausprobiert. Das Endergebnis der tanzenden Katze war dabei ein großer Erfolg.
 
 #### <a id="g">Ideen</a>
 
-Unsere erste geniale Idee für eine Verbesserung bestand darin, Clash of Crabs zu einem Multiplayerspiel zu machen, da Multiplayerspiele sich, wie allgemein bekannt ist, einer hohen Beliebtheit erfreuen. Hierfür haben wir uns überlegt, dass die eine Krabbe mit den Pfeiltasten und die andere Krabbe mit w,a,s,d, gesteuert werden kann. Natürlich müssen sich die beiden Krabben auch optisch voneinander unterscheiden.
+Unsere erste Idee für eine Verbesserung bestand darin, Clash of Crabs zu einem Multiplayerspiel zu machen, da Multiplayerspiele sich, wie allgemein bekannt ist, einer hohen Beliebtheit erfreuen. Hierfür haben wir uns überlegt, dass die eine Krabbe mit den Pfeiltasten und die andere Krabbe mit w,a,s,d, gesteuert werden kann. Natürlich müssen sich die beiden Krabben auch optisch voneinander unterscheiden.
 
-Des Weiteren haben wir die Grafiken etwas aufgemodelt, da wir wollten, dass das Spiel einen etwas realistischeren Touch bekommt.
-Einzig die Grafik der Würmer haben wir beim Alten belassen, um keinen Würgereiz beim Spieler hervorzurufen.
+Des Weiteren haben wir die Grafiken etwas überarbeitet, da wir einen realistischeren Touch für das Spiel bevorzugen.
+Einzig die Grafik der Würmer haben wir beim Alten belassen, um den Niedlichkeitsfaktor des Spiels beizubehalten.
 
 Für die Hummer haben wir einen praktikablen Bewegungsablauf programmiert, der sie nach dem Zufallsprinzip über den gesamten Bildschirm laufen lässt. Zudem erscheinen nach einiger Zeit neue Hummer, sodass der Schwierigkeitsgrad erhöht wird. Sie erscheinen immer genau in der Mitte des Bildschirms, damit das Spiel für beide Spieler fair bleibt.
 
-Als letztes haben wir dem Spiel noch Sounds hinzugefügt: Eine chillige Beachmusic als Hintergrundmusik, um das Strandflair zu gewährleisten, sowie einen hippen Sound, wenn eine der Krabben gefressen wird, was den Gewinner akustisch bekanntgeben soll.
+Als letztes haben wir dem Spiel noch Sounds hinzugefügt: Eine chillige Beachmusic als Hintergrundmusik, um Strandflair zu kreieren, sowie einen hippen Sound, wenn eine der Krabben gefressen wird. Dieser gibt somit den Gewinner akustisch bekannt.
 
 #### <a id="e">Implementierung</a>
 
@@ -67,12 +67,12 @@ Anschließend haben wir in der CrabWorld "prepare"-Methode den beiden Krabben ih
 
 Nach demselben Prinzip haben wir beiden Krabben verschiedene Bilder zugewiesen.
 
-Die alten Grafiken haben wir ausgetauscht, indem wir zunächst im Internet nach neuen, realitätsnaheren Grafiken gesucht haben.
+Die alten Grafiken haben wir ausgetauscht, indem wir zunächst im Internet nach neuen, realitätsnäheren Grafiken gesucht haben.
 Anschließend haben wir diese einfach in den "Images" Ordner eingefügt und für die jeweiligen Actors unsere Grafiken ausgewählt.
 
 Gleiches haben wir mit den Sounds gemacht. Diese haben wir ebenfalls im Internet gefunden, in den "Sounds" Ordner eingefügt und an den richtigen Stellen in unser Spiel einprogrammiert.
 
-Der Bewegungsablauf der Hummer erfolgt nach dem Zufallsprinzip. Dies haben wir umgesetzt, indem  wir die Hummer konstant vorwärts laufen lassen und random ("Greenfoot.getRandomNumber") deren Bewegungsrichtung mithilfe von "setRotation"  ändern. 
+Der Bewegungsablauf der Hummer erfolgt nach dem Zufallsprinzip. Dies haben wir umgesetzt, indem  wir die Hummer konstant vorwärts laufen lassen und zufällig ("Greenfoot.getRandomNumber") deren Bewegungsrichtung mithilfe von "setRotation"  ändern. 
 Mit den Wahrscheinlichkeiten haben wir so lange rumprobiert, bis die Hummer schließlich über den gesamten Bildschirm gelaufen sind.
 
 Damit immer neue Hummer spawnen, haben wir in CrabWorld in "Fields" zuerst eine Variable vom Typ Integer erstellt ("zeitZumLobster") und diese auf 0 gesetzt. In der "act"-Methode der CrabWorld haben wir programmiert, dass die "zeitZumLobster" pro Tic um 1 erhöht wird und dass nach 600 Tics jeweils ein neuer Hummer in der Mitte der Welt gespawnt wird. Die "zeitZumLobster" wird anschließend wieder auf 0 gesetzt.
@@ -95,4 +95,4 @@ Des Weiteren sollten die überaus dekorativen Seesterne eine Funktion erhalten. 
 
 ___ 
 
-[nach oben](#h)
+[zum Seitenanfang](#h)
