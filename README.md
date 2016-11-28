@@ -3,7 +3,7 @@
     Informatik bei Herrn Buhl, 1. Halbjahr 2016
  
 ## Clash of Crabs
-    Bitte entnehmen Sie unser Spiel Clash of Crabs dem schwarz-roten USB-Stick.
+    Bitte entnehmen Sie unser Spiel Clash of Crabs dem Informatikordner auf iSurfStormarn.
     
 ### Gliederung
 1. [Spielprinzip](#a)
